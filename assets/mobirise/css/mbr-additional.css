@@ -3771,7 +3771,7 @@ body {
 }
 .cid-rEZCyTSb8c .mbr-text {
   color: #767676;
-  text-align: right;
+  text-align: center;
 }
 .cid-rEZCyTSb8c .card {
   display: -webkit-flex;
@@ -3864,7 +3864,7 @@ body {
 }
 .cid-rFbmJFteXJ .mbr-text {
   color: #767676;
-  text-align: right;
+  text-align: center;
 }
 .cid-rFbmJFteXJ .card {
   display: -webkit-flex;
@@ -3943,6 +3943,9 @@ body {
 }
 .cid-rFbmJFteXJ .popup-btn:hover .mbr-section-btn {
   opacity: 1;
+}
+.cid-rFbmJFteXJ .card-title {
+  text-align: center;
 }
 .cid-rEZBJHwJPb {
   padding-top: 135px;
@@ -4501,58 +4504,6 @@ body {
   padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-rFbp2R7QAz {
-  padding-top: 90px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rFbp2R7QAz h2 {
-  margin-bottom: 0;
-}
-.cid-rFbp2R7QAz h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  width: 80%;
-}
-.cid-rFbp2R7QAz p {
-  color: #767676;
-  margin-bottom: 0;
-}
-.cid-rFbp2R7QAz .card-wrapper {
-  border-top: 1px solid #efefef;
-  background-color: #ffffff;
-  position: relative;
-  justify-content: unset;
-}
-.cid-rFbp2R7QAz .card-wrapper .card-box {
-  padding: 2rem 1rem;
-  width: 100%;
-}
-.cid-rFbp2R7QAz .card-wrapper .card-box .top-line {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.cid-rFbp2R7QAz .card-wrapper .card-box .bottom-line {
-  width: 70%;
-}
-@media (max-width: 767px) {
-  .cid-rFbp2R7QAz .card-wrapper .card-box .bottom-line {
-    width: 100%;
-  }
-  .cid-rFbp2R7QAz .card-wrapper .card-box .bottom-line p {
-    text-align: center;
-    margin: 1rem 0 0 0;
-  }
-}
-.cid-rFbp2R7QAz P {
-  text-align: right;
-}
-.cid-rFsLm4ahTN {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
 .cid-rFbrNOwrc6 {
   padding-top: 90px;
   padding-bottom: 0px;
@@ -4598,8 +4549,8 @@ body {
   }
 }
 .cid-rFsLn3z5Vl {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rF5oq0ir5S {
@@ -4670,8 +4621,8 @@ body {
   color: #767676;
 }
 .cid-rFsLnPnfjp {
-  padding-top: 0px;
-  padding-bottom: 0px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #ffffff;
 }
 .cid-rEZA574Bjp {
