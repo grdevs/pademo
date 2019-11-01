@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PrecisionAesthetics",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -362,7 +362,7 @@
                 "title": "About Us",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "We are two registered nurses with over 15 years <br>combined experience within the NHS offering specialist treatements <br>to help you look and feel like the best version of you.",
+                "text": "We are two registered nurses with over 15 years <br>combined experience within the NHS, offering specialist treatements <br>to help you look and feel like the best version of you.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Meet The Team</a> "
               },
               {
@@ -379,7 +379,7 @@
                 "title": "Treatments",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "We offer a wide range of services to ensure our clients a bespoke treatment thats right for them.",
+                "text": "We offer a wide range of services to ensure our clients a bespoke treatment that's right for them.",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click Here</a>"
               },
               {
