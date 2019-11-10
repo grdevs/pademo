@@ -380,7 +380,7 @@
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "We offer a wide range of services to ensure our clients a bespoke treatment that's right for them.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Click Here</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-primary-outline\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">Click Here</a>"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/6s5a6936-1333x2048.jpg",
